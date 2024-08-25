@@ -704,7 +704,7 @@ Defog (20)
 - Right
 
 :::::trainer[Gym Leader Fantina]
-  :::pokemon[Drifblim]{info="my beloved. (Heal as needed (heal burn immediately). Has aftermath)" baseStats="[150, 80, 44, 90, 54, 80]" evs="[52, 0, 4, 68, 4, 52]" ivs="[19, 0, 5, 19, 5, 19]" nature="Timid" level=32}
+  :::pokemon[Drifblim]{info="(Heal as needed (heal burn immediately). Has aftermath)" baseStats="[150, 80, 44, 90, 54, 80]" evs="[52, 0, 4, 68, 4, 52]" ivs="[19, 0, 5, 19, 5, 19]" nature="Timid" level=32}
     - X Speed
     - Swords Dance
     - _If Drifblim used Strength Sap:_
