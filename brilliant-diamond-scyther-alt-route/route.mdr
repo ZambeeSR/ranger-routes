@@ -1246,7 +1246,7 @@ Left Teleporter
   :::pokemon[Remoraid]
     - Dragon Claw
   :::
-  :::pokemon[Mantine]{info="my belantine" infoColor=gray}
+  :::pokemon[Mantine]
     - Dragon Claw
   :::
 :::::
